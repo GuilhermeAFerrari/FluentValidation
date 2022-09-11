@@ -1,6 +1,6 @@
 # FluentValidation
 
-> 🚀 Projeto desenvolvido em ASP.NET Core, com objetivo de implementar utilização da biblioteca [FluentValidation](https://docs.fluentvalidation.net/en/latest/).
+> 🚀 Projeto desenvolvido em ASP.NET Core, com objetivo de implementar a utilização da biblioteca [FluentValidation](https://docs.fluentvalidation.net/en/latest/).
 
 <p align="center">
   <a href="#-tecnologias-e-pacotes">Tecnologias e Pacotes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
